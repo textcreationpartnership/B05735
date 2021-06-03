@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, reviving the laws anent hunting, hawking, fishing and appointing masters of the game.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05735</idno><idno type="EEBO-CITATION">52529004</idno>
+  <idno type="VID">179114</idno>
+  <idno type="EEBO-PROQUEST">2240898884</idno>
+  
+            <idno type="STC">Wing S1987</idno>
+            <idno type="STC">ESTC R183591</idno>
+            <idno type="OCLC">52529004</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179114)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2777:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, reviving the laws anent hunting, hawking, fishing and appointing masters of the game.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the ninth day of June, one thousand six hundred eighty years. And of Our Reign the thirty two year.</note>
+                  <note>Signed: Al. Gibson, Cl. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Game laws --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Fishery law and legislation --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Gamekeepers --  Selection and appointment --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179114:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Reviving the Laws anent Hunting, Hawking, Fishing and appointing Masters of Game.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of God, King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers, or Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>stitu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Greeting;</salute>
+            </opener>
+            <p>We <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king to Our Consideration the great prejudice the Kingdom doth sustain in the decay of Deer, Roes, and Wild-Fowl, and that there is not only danger of an utter decay of so useful Creatures; but the Manly Exercises of Hunting and Hawking, like to be altogether neglected; And albeit Our Royal Progenitors have made many good Laws to prevent and repair this great evil and mischief, and against the destroying of Smolts or Trouts, with Creels, and other Engines, anent Cruives and Ʒaires, steeping of Lint in Rivers, Lochs and Burns, where Fish are; which good Laws, although they be yet in force unrepealled, yet by the distractions of the late Times, they have been less regarded these many Years by gone, to the enorm lesion of Our People, and contempt of Our Authority: Have therefore, with Advice of Our Privy Council, thought fit hereby to Revive all the Laws that stand yet unrepealled, or innovate, for preserving of Doe, Roe, Hares, and Wild-Fowl; and especially the 31 <hi>Act</hi> of the 23 <hi>Parliament</hi> of K. <hi>James</hi> the sixth, whereby all Persons who are not Heretors, are prohibited to Hunt or Hawk, and that neither Heretor or other shoot Deer or Roe in time of Snow: As also, the 11 <hi>Act</hi> of the 4 <hi>Parliament</hi> of K. <hi>James</hi> the fifth, and 210 <hi>Act</hi> of the 14 <hi>Parliament</hi> of K. <hi>James</hi> the sixth, by which, Letters are ordained to be direct, charging all Keepers of His Majesties Forrests, to permit no Pasturage within the Marches of the Forrests, but that they seize and escheat them, under the pain of loss of their Office; and that Forresters of Forrests belonging to private Men, shall apprehend such as travel with Guns or Dogs in Forrests, and carry them to the nearest Sheriff, or Justice of Peace, to be secured, to answer as accords of the Law; and that all such of the Leidges who shall be required to concur to apprehend such Persons, give ready Obedience, as is ordained by the Forrest Laws, <hi>cap.</hi> 15, and <hi>cap.</hi> 22. and these who conceal them, to be fined as Art and Part of the said fault. And further, We do hereby forbid all shooting of Hares, or Herron at any time, under the pains contained in the Acts of <hi>Parliament</hi> made thereanent. <hi>Item,</hi> That all Persons forbear to slay any Muir-fowl, Heath-fowl, Partridge, Quail, Duck, or Mallard, Tale, or Atale, or Tor<g ref="char:EOLhyphen"/>michan, from and after the first day of <hi>Lent,</hi> to the first of <hi>July</hi> yearly, according to the 108 <hi>Act. Parl.</hi> 7. K. <hi>Ja.</hi> 1. excepting Water-fowl with Hawks in Dredging-time. <hi>Item,</hi> The 23 <hi>Act. Parl.</hi> 16. K. <hi>Ja.</hi> 6. Forbidding the killing of Muir-fowl-pouts before the first of <hi>July,</hi> Heath-pouts before the first of <hi>August,</hi> or Partridge or Quail before the first of <hi>September</hi> yearly. <hi>Item,</hi> We Revive the 48 <hi>Act. Parl.</hi> 4. K. <hi>Ja.</hi> 4. forbidding Muirburn after the last of <hi>March,</hi> and the Masters to be lyable for all upon their Land. And further, We considering that Setting-Dogs, and other Engines for killing of Fowl, is a great cause of the scarcity of Game; We do hereby prohibite and discharge all Persons, to have or use Setting-Dogs, on this side of the River of <hi>Tay,</hi> nor besouth <hi>Clyde</hi> on the West Coast; and that none have or use them benorth <hi>Tay</hi> or <hi>Clyde,</hi> unless he be an Heretor of one thousand Pound of valued Rent, and have express License of the Master of Our Game with<g ref="char:EOLhyphen"/>in their several Bounds, under the pain of five hundred Merks, <hi>toties quoties,</hi> in case of failʒie. And We do hereby discharge all common Fowlers, and Shooters of Fowl, or any Persons, except they be Domestick-Servants to Noblemen or Gentlemen, who are Heretors of one thousand Pound <hi>Scots</hi> of value <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ent, to have or make use of Setting-Dogs or <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing-pieces, under the pain of escheat of such Dogs or Guns, and imprisonment of their Persons for the space of six Weeks, <hi>toties quoties. Item,</hi> We Revive the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Act. Parl.</hi> 14. K. <hi>Ja.</hi> 6. whereby Shooting, Hunting, or Hawking within six Miles of Our Palaces are prohibited, under the pains
+<pb facs="tcp:179114:2"/>therein contained, without express License of the Master of the Game: And seeing the Fowls, Hares and Roes are already so far destroyed, that there is just ground to fear a total decay thereof, We therefore with Advice foresaid, do Rivive the 23 <hi>Act. Parl.</hi> 16. K. <hi>Ja.</hi> 6. forbidding all selling or buying of Deer, Roe, Hares, Muir-fowl, Tormichan, Heath-fowls, Partridge, or Quail, for the space of three Years next ensuing <hi>April,</hi> in this instant Year 1680, under the pains contained in the said <hi>Act;</hi> And for the better discovery of the Contraveeners, We do hereby give Warrand to the Masters of Our Game in the respective Bounds, to make search for any of the saids Deer, Roe, Hares, Muir-fowl, Tormichan, Heath-fowls, Partridge, or Quail in any suspect place, within or without Burgh, either in the Houses of common Fowlers, Buyers, or Sellers, and to seize upon, secure and confiscate the same for their own use; as also to apprehend the same at the Ports of any Burghs, or other places, and confiscate the same as aforesaid. <hi>Item,</hi> We do hereby Revive the 51 <hi>Act. Parl.</hi> 6. of Q. <hi>Mary,</hi> forbidding Hunting on other Mens Ground without leave of the Owner. And whereas by the 11 <hi>Act. Parl.</hi> 1. K. <hi>Ja.</hi> 1. Cruives and Ʒaires set on fresh Water without express Infeftments of Salmond-Fishing, are ordained to be destroyed and put away for ever, and that where Cruives are allowed by Infeftments, that ilk Heck be three Inch wide, which is ra<g ref="char:EOLhyphen"/>tified by the 73 <hi>Act. Parl.</hi> 10. K. <hi>Ja.</hi> 3. And by the 87 <hi>Act. Parl.</hi> 14. K. <hi>Ja.</hi> 2. It is statute that no Man set Vessels, Creels, Weirs, Nets, or any other Engine to hin<g ref="char:EOLhyphen"/>der Smolts from going to the Sea, and that Coups, Masses, Nets, Prins set on Waters that has course to the Sea be destroyed, and who holds them up, to be lyable as destroyers of red Fish. <hi>Item,</hi> That all Millers that slays Smolts or Trouts with Creels, or any other Engine; or any who Dams or Laves, shall be punishable as Slayers of red Fish, conform to the 37 <hi>Act. Parl.</hi> 5. K. <hi>Ja.</hi> 3. And where the Transgressours has no Means, they are appointed to be put in Prison, Irons, or Stocks, for the space of one Month upon their own Expences; and if they have it not of their own, to be fed on Bread and Water, conform to the 89 <hi>Act. Parl.</hi> 6. K. <hi>Ja.</hi> 6. And by the 13 <hi>Act. Parl.</hi> 18. K. <hi>Ja.</hi> 6. The steeping of Lint in Rivers, Lochs, or Burns where Fish are, is discharged, under the pain of fourty Shilling <hi>Scots, toties quoties,</hi> and confiscation of the Lint: Which good and ancient Laws yet standing unrepealled or innovate, We have thought fit hereby to Revive and Ordain to be put in Execution: Ordaining hereby the Masters of Our Game to require all Heretors and others, to throw down all Cruives and Ʒaires set on fresh Water, without express Infeftment of Salmond-Fishing, betwixt and the first of <hi>June</hi> next, under the pain of one hundred Pounds <hi>Scots,</hi> to be uplifted off these who refuse, and the Sheriffs and their Deputes to give speedy Justice therefore when desired by the Masters of Game, or their Deputes. And We appoint the several Sheriffs and their Deputes, Stewarts of Stewartries, Bailiffs of Regalities and their Deputes, and Magistrates of the next adjacent Burrows to concur with the Masters of Game, for throwing down of the saids Cruives, Creels, Nets and Engines, when they shall be required; and if the saids Judges be found negligent, that the foresaid Penalty be uplifted off themselves, according to the 68 <hi>Act. Parl.</hi> 9. of Q. <hi>Mary.</hi> And to the effect the saids Laws may receive the more vigorous Execution, We do hereby Commissionate the Persons following to be Masters of Game, within the respective Bounds after specified, <hi>viz.</hi> Mr. <hi>John Maitland,</hi> for the Shire of <hi>Edinburgh;</hi> the Earl of <hi>Haddington,</hi> for East <hi>Lothian;</hi> the Earl of <hi>Linlithgow,</hi> for <hi>Linlithgow</hi> Shire; the Earl of <hi>Mar,</hi> for <hi>Stirling</hi> Shire, the Earl of <hi>Rothes,</hi> Lord Chancellor, for <hi>Fife</hi> and <hi>Kinross;</hi> the Marquess of <hi>Athol,</hi> Lord Privy Seal, for <hi>Perth</hi> Shire; the Earl of <hi>Southesk,</hi> for <hi>Forfar</hi> Shire; the Earl Marischal, for the Shire of <hi>Kincardin,</hi> and for all below <hi>Mormouth</hi> Hill, and the Water of <hi>Eugie</hi> in <hi>Bamff</hi> Shire; and the Earl of <hi>Airly,</hi> for all the rest of <hi>Bamff</hi> Shire; the Earl of <hi>Dumfermling,</hi> for all betwixt <hi>Crathus, Bannachie,</hi> and the Sea in <hi>Aberdene</hi> Shire; the Earl of <hi>Aboyne,</hi> in all above that in the said Shire; the Earl of <hi>Murray,</hi> for all from <hi>Spey</hi> to <hi>Ness,</hi> high and low, comprehending <hi>Elgin, Nairn</hi> and <hi>Innerness</hi> Shires, to <hi>Lochness;</hi> the Earl of <hi>Seaforth,</hi> from <hi>Ness</hi> to <hi>Conan,</hi> high and low, compre<g ref="char:EOLhyphen"/>hending <hi>Cromarty</hi> Shire; Sir <hi>George Mckenʒie</hi> of <hi>Tarbet,</hi> Lord Justice General, from <hi>Conan</hi> to <hi>Portnaculter</hi> and <hi>Okel</hi>-Water, and on the West from <hi>Lochew</hi> to <hi>Cuilis<g ref="char:EOLhyphen"/>cuack;</hi> the Lord <hi>Duffus,</hi> for <hi>Sutherland,</hi> excepting <hi>Assint,</hi> which is in the last division; the Earl of <hi>Caithness,</hi> for <hi>Caithness;</hi> Captain <hi>Andrew Dick,</hi> for <hi>Orkney;</hi> the Earl of <hi>Argile,</hi> for <hi>Argile</hi> Shire; the Earl of <hi>Home,</hi> for the Shire of <hi>Perwick;</hi> the Earl of <hi>Roxburgh,</hi> for the Shire of <hi>Teviotdale;</hi> the Lord Duke of <hi>Hamilton,</hi> for <hi>Lanerk</hi> Shire; the Earl of <hi>Kilmarnock,</hi> for the Shire of <hi>Air;</hi> the Laird of <hi>Posso,</hi> younger, for <hi>Peebles</hi> Shire; the Earl of <hi>Glencairn,</hi> for the Shire of <hi>Renfrew;</hi> the Marquess of <hi>Montrose,</hi> for the Shire of <hi>Dumbartoun;</hi> the Laird of <hi>Burghtoun,</hi> for the Shire of <hi>Wigtoun;</hi> the Earl of <hi>Nithisdale,</hi> for the Stewartry of <hi>Kircudbr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght;</hi> the Earl of <hi>Queensberry,</hi> for the Shire of <hi>Dumfries.</hi> Hereby Impowering and Warranting them to put the standing Laws in Execution, in so far as concerns the preserving of Forrests, Wild-fowl and Fishing, especially the Laws and other Ordinances above specified. And We Require all Our Judges in their respective Jurisdictions, to give speedy Justice in favours of the said Masters of Our Game, or their Deputes, when they persue Delinquents before them. And for further capacitating of Our said Masters of Game, We Impower them to appoint Deputes, one or moe, as they shall find expedient; And to encourage them in so good Service to Us, and Our People, We hereby allow Our parts of all Fines and Unlaws due to Us by Our Laws, for the Crimes relating to Forrests, Game, and Fishing, in favours of the saids Masters of Our Game within their respective Bounds, and during the time We shall think fit to imploy them in the said Service; Withall certifying them, that if they be remiss or negligent in their duty, they are to be fined by Our Privy Council, according to the quality of their offence. And We Declare Our said Com<g ref="char:EOLhyphen"/>mission is to continue and endure until We or Our Privy Council think fit to recall the same. Our Will is herefore, and We charge you straitly, and Command, that incontinent, these Our Letters seen, ye pass to the Mercat-Cross of-<hi>Edinburgh,</hi> and other Mercat-Crosses of the Head-Burghs of the several Shires of this Kingdom, and other places needful, and there by open Proclamation, make publication of the Premises; And that these Presents be printed, that none pretend ignorance.</p>
+            <closer>
+               <dateline>Given under Our Signet, at <hi>Edinburgh,</hi>
+                  <date>the second day of <hi>March,</hi> One thousand six hundred and eighty Years. And of Our Reign the thirty two Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilij, <hi>AL. GIBSON,</hi> Cl. Sti. Concilii.</signed>
+               <lb/> GOD save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINBƲRGH <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred Majesty; <hi>Anno Dom.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
